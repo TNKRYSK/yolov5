@@ -1,0 +1,5 @@
+train: data/train/images # 学習の画像のパス
+val: data/valid/images # 検証用画像のパス
+
+nc: 1 # クラスの数
+names: [ 'tooth' ] # クラス名
